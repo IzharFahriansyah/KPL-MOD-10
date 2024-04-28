@@ -30,3 +30,4 @@ D:\Praktikum KPL\TPMOD10\TPMOD10\obj\Debug\net8.0\refint\TPMOD10.dll
 D:\Praktikum KPL\TPMOD10\TPMOD10\obj\Debug\net8.0\TPMOD10.pdb
 D:\Praktikum KPL\TPMOD10\TPMOD10\obj\Debug\net8.0\TPMOD10.genruntimeconfig.cache
 D:\Praktikum KPL\TPMOD10\TPMOD10\obj\Debug\net8.0\ref\TPMOD10.dll
+D:\Praktikum KPL\TPMOD10\TPMOD10\obj\Debug\net8.0\TPMOD10.sourcelink.json
